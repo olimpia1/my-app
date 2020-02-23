@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 import { browser, logging } from 'protractor';
-import { AppEnum } from './app.enu,';
+import { AppEnum } from './app.enum';
 
 describe('workspace-project App', () => {
   let page: AppPage;
